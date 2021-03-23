@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l0eVCqbBg1V9Lcs5rfD1FS1EiveegcETlp/ZPkg2aDkkQCePvgmAfr9mP1VfEGByu2ZNIr9W182SHHw+uDJtlw==",
+  "dgSpecHash": "36RoJBllwj0YkX6DyGstpt3LKuNBzxkELylLnDWei7AUWRxwAhW40rhHnApBCaKHdvi9CQz/GN1OGpa4KQrFtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tony\\Desktop\\homework\\C#\\homework\\homework.csproj",
+  "projectFilePath": "C:\\Users\\Tony\\Desktop\\homework\\C#\\findPrime\\homework.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

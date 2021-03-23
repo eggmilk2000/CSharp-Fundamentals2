@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tony\\Desktop\\homework\\C#\\homework\\homework.csproj": {}
+    "C:\\Users\\Tony\\Desktop\\homework\\C#\\findPrime\\homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tony\\Desktop\\homework\\C#\\homework\\homework.csproj": {
+    "C:\\Users\\Tony\\Desktop\\homework\\C#\\findPrime\\homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tony\\Desktop\\homework\\C#\\homework\\homework.csproj",
+        "projectUniqueName": "C:\\Users\\Tony\\Desktop\\homework\\C#\\findPrime\\homework.csproj",
         "projectName": "homework",
-        "projectPath": "C:\\Users\\Tony\\Desktop\\homework\\C#\\homework\\homework.csproj",
+        "projectPath": "C:\\Users\\Tony\\Desktop\\homework\\C#\\findPrime\\homework.csproj",
         "packagesPath": "C:\\Users\\Tony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tony\\Desktop\\homework\\C#\\homework\\obj\\",
+        "outputPath": "C:\\Users\\Tony\\Desktop\\homework\\C#\\findPrime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tony\\AppData\\Roaming\\NuGet\\NuGet.Config"

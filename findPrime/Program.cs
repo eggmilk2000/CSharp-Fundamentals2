@@ -10,6 +10,8 @@ namespace homework
         {
             Task task1 = TaskOne(); //find prime number from 1 -> 50
             Task task2 = TaskTwo(); //find prime number from 51 -> 100
+            await task1;
+            await task2;
             Task.WaitAll(task1,task2);
             
         }
